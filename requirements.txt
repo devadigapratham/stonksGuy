@@ -1,0 +1,15 @@
+openai 
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+gemini
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+uvicorn 
+groq
